@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="Test" max_length="40" name="test" type="integer"/>
+        <element label="Test1" max_length="40" name="test1" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Current Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+    </element>
+</database>
